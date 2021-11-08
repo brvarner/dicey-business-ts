@@ -1,0 +1,13 @@
+#dice-container {
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 5em;
+}
+
+
+.die {
+    border: 2px solid black;
+    border-radius: 3px;
+    /* padding: 1em; */
+    font-size: 5em;
+}
